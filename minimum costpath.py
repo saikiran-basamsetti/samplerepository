@@ -1,4 +1,5 @@
 #minimum path
+#Minimum cost path
 import sys
 def minicost(table,m,n):
     if m<0 or n<0:
